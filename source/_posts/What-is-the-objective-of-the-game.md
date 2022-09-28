@@ -1,6 +1,6 @@
 ---
 title: What is the objective of the game
-date: 2022-09-23 20:16:39
+date: 2022-09-28 21:00:42
 categories:
 - 7bit Casino
 tags:
@@ -9,58 +9,66 @@ tags:
 
 #  What is the objective of the game?
 
-The objective of the game is to move all of your pieces from your home to the final destination, which is usually your opponent’s home. You can only move one piece at a time and you can only move a piece if there is a legal move for that piece. The game is over when one player either cannot make any more legal moves or captures all of the pieces of the other player.
+The objective of the game is to score points by throwing the disc into the opposing team’s goal. The team with the most points at the end of the game wins.
 
-# What are the different pieces in the game?
+# How do you play?
 
-There are six different kinds of pieces in the game: rook, knight, bishop, queen, king, and pawn. The rook can move horizontally or vertically any number of spaces. The knight can jump over other pieces and can move two spaces in any direction, but it can only jump once per turn. Bishops can move diagonally any number of spaces. Queens can move horizontally, vertically, or diagonally any number of spaces. Kings can move one space in any direction. Pawns can move forward one space, but they can also capture an opposing piece by moving two spaces diagonally in front of them.
+Players take turns throwing the disc at the other team’s goal. If a player catches a disc that has been thrown at them, they can then throw it back at the other team’s goal. If a player drops a disc, they must run to retrieve it before their opponents can throw it back into their goal.
 
-#  How do you win?
+# How are points awarded?
 
-In any game, there are a few basic principles that must be adhered to in order to achieve victory. The same is true for life – if you want to be successful, you need to know how to win. Here are four tips to help you achieve success in life:
+A point is awarded when a player throws the disc into the opposing team’s goal. The team with the most points at the end of the game wins.
 
-1. Set your goals high and be ambitious
+#  How do you play the game?
 
-If you want to be successful, you need to have big goals and aspirations. You need to be willing to work hard and push yourself to reach your goals. Remember, it’s not about the destination, it’s about the journey. So don’t be afraid to set your sights high and aim for the stars.
+The rules of the game are simple. Two players, A and B, each have nine pieces: three in the front row, three in the middle row, and three in the back row. The goal of the game is to capture opponent’s pieces by jumping over them with one of your own pieces.
 
-2. Stay motivated and focused
+# Capturing opponent's pieces
 
-In order to achieve your goals, you need to stay motivated and focused. This means setting aside time each day to work on your goals and staying committed until you reach them. It won’t be easy, but if you put in the hard work, you will eventually succeed.
+You can capture an opponent’s piece if it is located next to one of your pieces and there is an empty space on the other side of that piece. For example, if you have a piece in the front row and the opponent has a piece in the back row, you can capture that piece by jumping over it with one of your pieces from the front row. If there is more than one way to capture a piece, then you can choose which way you want to do it.
 
-3. Create a winning mindset
+# Putting a piece into play
 
-The most important thing you can do when trying to achieve success is create a winning mindset. This means believing in yourself and your ability to win no matter what the odds are against you. With a winning mindset, anything is possible.
+Before you can start jumping over opponent’s pieces, you first need to put a piece into play. To do this, click on one of the empty spaces in the front row and then select one of your pieces from the selection box that pops up. Once you have placed your piece into play, it will start moving automatically towards the back row.
 
-4.Network with other successful people
+#  What are the different bonuses available in the game?
 
-Finally, one of the best ways to achieve success is by networking with other successful people. By surrounding yourself with like-minded individuals, you will learn from their experiences and be able to accelerate your own success journey.
+There are many different bonuses available in the game. Some bonuses are awarded for free, while others must be earned through gameplay or purchased with premium currency.
 
-#  What are the different rounds in the game?
+One of the most common bonuses is the daily bonus. This bonus is awarded to players who log in to the game each day. It typically consists of a small amount of premium currency, but may also include other rewards such as gold and experience points.
 
-There are typically six rounds in the game, each with a different set of objectives.
+Another common bonus is the login bonus. This bonus is similar to the daily bonus, but is awarded to players who have logged in within a specific time period, such as the past 7 days.
 
-Round 1: The players are randomly assigned to one of two teams, and they must capture as many of the opponent’s flags as possible.
+A third type of common bonus is the achievement bonus. This bonus is awarded to players who complete specific achievements within the game. These achievements vary in difficulty, and can range from defeating a certain number of enemies to completing a level without taking any damage.
 
-Round 2: The players must work together to capture a central flag.
+Some bonuses are only available to players who purchase them with premium currency. The most common example of this type of bonus is the VIP bonus. This bonus typically provides a large amount of premium currency, along with other benefits such as increased experience and gold gains, reduced wait times for various activities, and exclusive items and discounts.
 
-Round 3: The teams are again randomly assigned, but this time they must try to hold on to their own flags while capturing the opponent’s.
+Other types of premium-only bonuses include character skins, outfit sets, and ring sets. These bonuses usually provide cosmetic changes that allow players to customize their characters or teams in various ways.
 
-Round 4: The teams are again randomly assigned, but this time they battle to control a single flag in the middle of the map.
+#  What are some of the features of the game?
 
-Round 5: One team is assigned as the attacker and must try to capture two flags from the other team.
+  The Witcher 3 Wild Hunt offers an amazing gaming experience with some top-notch features. In no specific order, they include:
 
-Round 6: The final round is a king of the hill match where one team tries to control a specific area for as long as possible.
+1) A massive and detailed world to explore - the game boasts an open world environment that is 30 times larger than the world featured in The Witcher 2: Assassins of Kings. This allows players to explore every nook and cranny for all the secrets and treasures that it holds.
 
-#  What are the different card ranks?
+2) Rich storyline - CD Projekt RED did not skimp on the story, as it is one of the most important aspects of the game. Geralt of Rivia, the series’ protagonist, embarks on a grand adventure that will take him across different kingdoms and continents.
 
-In a deck of 52 cards, there are four suits and thirteen ranks within each suit. The suits are Hearts, Clubs, Spades, and Diamonds. The ranks are Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack (J), Queen (Q), and King (K).
+3) Deep combat system - the combat system in The Witcher 3 is one of the most detailed and complex systems yet seen in a video game. Players must use their witcher signs, swordsmanship, and reflexes to survive against deadly foes.
 
-An Ace can be high or low. When it is high it is the best possible card in the deck. When it is low it is the worst possible card in the deck. The other ranks proceed as normal with 2 being the next best card and 10 being the worst possible card.
+4) Dynamic environments - another thing that sets The Witcher 3 apart from other games is its dynamic environments. In one scene, you may be fighting enemies in a lush forest, while in another scene you could be struggling through a blizzard in the tundra.
 
-#  What is the value of a four of a kind?
+#  What are the odds of winning in the game?
 
-A four of a kind, or quads, is a poker hand composed of four cards of the same rank. It ranks above a straight flush and below a royal flush. The probability of being dealt a four of a kind is 1 in 649,740.
+Casinos always seem to be a bit of a mystery, particularly when it comes to the odds of winning. Of course, there’s no need to feel intimidated – we’re here to demystify the topic for you. Let’s take a look at what the chances are of walking away a winner at casino games.
 
-In most variants of poker, the quads are the best possible hand one can be dealt after the flop (the first three community cards dealt face-up), and they usually automatically win the pot. In some variants such as Texas Hold'em, however, it can be beaten by a royal flush.
+# Roulette
 
-In its most basic form, when there are no wildcards in play, the value of a four of a kind is simply 4 x the rank of the card. For example, four Aces would be worth 4 x 4 = 16 points.
+Roulette is one of the most popular casino games in the world, and it’s also one of the easiest to understand. In this game, players bet on where they think the ball will end up after it’s spun around the wheel. If you guess correctly, you win!
+
+The odds of winning at roulette vary depending on which type of bet you make. The simplest bets (such as red or black) have odds of just 1 in 2, while more complicated bets offer better odds but also require more skill to win. Overall, though, the house edge in roulette is about 5%, so your chances of winning are pretty slim.
+
+# Blackjack
+
+Blackjack is another classic casino game that’s enjoyed by millions of people around the world. In this game, players compete against the dealer in an attempt to get as close to 21 as possible. If your total score is higher than the dealer’s total score, you win!
+
+The odds of winning at blackjack vary depending on how conservative or risky you want to be with your bets. For example, if you stick to basic blackjack strategy then your odds of winning are about 47%. However, if you start making more risky plays then your odds can improve (or decrease) significantly. Overall, though, blackjack has an average house edge of just 0.5%. This means that players have a decent chance of coming out on top when playing blackjack.
